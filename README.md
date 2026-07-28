@@ -15,7 +15,8 @@ Most sentiment analysis tools and tutorials are built for English. Tamil — spo
 > Type: `படம் அருமையாக இருந்தது` → **Positive 😊**
 > Type: `சேவை மிகவும் மோசமாக இருந்தது` → **Negative 😞**
 
-(Add a screenshot or GIF of the app here)
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/358b3c4b-a832-43a8-aa38-46bcc9f0c24b" />
+
 
 ## How it works
 
