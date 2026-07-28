@@ -2,7 +2,7 @@
 
 Detects the sentiment — **positive, negative, or neutral** — of Tamil text using a fine-tuned multilingual transformer (Google's MuRIL).
 
-🔗 **Live demo:** _add your Streamlit Cloud link here after deployment_
+🔗 **Live demo:** Coming soon!
 
 ---
 
